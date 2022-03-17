@@ -27,22 +27,22 @@ class Cadastro extends React.Component{
     e.preventDefault();
     this.setState({nomeCadastro: e.target.value});
   };
-  // Validação do Nome no Formulário de Cadastro
+  // Validação do Email no Formulário de Cadastro
   emailCadastro = (e) => {
     e.preventDefault();
     this.setState({emailCadastro: e.target.value});
   };
-  // Validação do Nome no Formulário de Cadastro
+  // Validação da Senha no Formulário de Cadastro
   senhaCadastro = (e) => {
     e.preventDefault();
     this.setState({senhaCadastro: e.target.value});
   };
-  // Validação do Nome no Formulário de Cadastro
+  // Validação da Confirmação de Senha no Formulário de Cadastro
   confirmarSenhaCadastro = (e) => {
     e.preventDefault();
     this.setState({confirmarSenhaCadastro: e.target.value});
   };
-  // Validação do Nome no Formulário de Cadastro
+  // Validação da Data de Nascimento no Formulário de Cadastro
   dataCadastro = (e) => {
     e.preventDefault();
     this.setState({dataCadastro: e.target.value});
