@@ -1,17 +1,30 @@
-## Siga as etapas abaixo para executar a aplicação:
-##### 1 - Baixe e instale o Git caso ainda não tenha instalado:
-###### https://git-scm.com/downloads
-##### 2 - Baixe e instale o NodeJS caso ainda não tenha instalado:
-###### https://nodejs.org/en/download/
-##### 3 - Faça o download do projeto via terminal:
-###### git clone https://github.com/HudDavi/Javascript-Formulario-React.git
-##### 4 - Acesse a pasta do projeto:
-###### cd Javascript-Formulario-React
-##### 5 - Em seguida instale o React:
-###### npm install react react-dom
-##### 6 - Acesse a pasta src:
-###### cd src
-##### 7 - Execute a aplicação:
-###### npm start
-##### 8 - Acesse a aplicação no seu navegador:
-###### https://localhost:3000
+<h3>Habilidades:</h3>
+<div display="inline-block">
+<img height="30px" width="10%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img height="30px" width="10%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img height="30px" width="10%" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img height="30px" width="10%" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+<hr>
+<h3>Siga as etapas abaixo para executar a aplicação:</h3>
+<ol>
+<li>Baixe e instale o Git caso ainda não tenha instalado:</li>
+<p>https://git-scm.com/downloads</p>
+<li>Baixe e instale o NodeJS caso ainda não tenha instalado:</li>
+<p>https://nodejs.org/en/download/</p>
+<li>Faça o download do projeto via terminal:</li>
+<p>git clone https://github.com/HudDavi/Javascript-Formulario-React.git</p>
+<li>Acesse a pasta do projeto:</li>
+<p>cd Javascript-Formulario-React</p>
+<li>Em seguida instale o React:</li>
+<p>npm install react react-dom</p>
+<li>Acesse a pasta src:</li>
+<p>cd src</p>
+<li>Execute a aplicação:</li>
+<p>npm start</p>
+<li>Acesse a aplicação no seu navegador:</li>
+<p>https://localhost:3000</p>
+</ol>
+<hr>
+<h3>Versão da aplicação em Javascript Nativo:</h3>
+<p>https://github.com/HudDavi/Javascript-Formulario-Nativo</p>
